@@ -1,5 +1,5 @@
 ---
-title: "Python Numpy"
+title: "Web Crawler"
 author: "Alvin, Lin"
 date: "`r Sys.Date()`"
 date-format: full
@@ -21,6 +21,7 @@ execute:
 library(reticulate)
 ```
 
+# Web Crawler
 ```{python}
 #| column: page
 # Get url from PTT movies
@@ -28,6 +29,7 @@ import urllib.request as req
 url = "https://www.ptt.cc/bbs/movie/index.html"
 # Request with headers information
 request = req.Request(url, headers = {
+  # Headers should be a dictionary
   "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0"
 })
 with req.urlopen(request) as response:
@@ -43,5 +45,42 @@ titles = root.find_all("div", class_= "title")
 for title in titles:
   if title.a != None:
     print(title.a.string)
+```
+
+## Cookies
+```{python}
+#| column: page
+# Get url from PTT Gossiping
+import urllib.request as req
+def getData(url):
+
+    # Request with headers information
+    request = req.Request(url, headers = {
+      # Headers should be a dictionary
+      ## Add cookie in the header
+      "cookie":"over18=1",
+      "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0"
+    })
+    with req.urlopen(request) as response:
+      data = response.read().decode("utf-8")
+    
+    import bs4
+    root = bs4.BeautifulSoup(data,"html.parser")
+    titles = root.find_all("div", class_= "title")
+    for title in titles:
+      if title.a != None:
+        print(title.a.string)
+        
+    nextLink = root.find("a", string = "‹ 上頁")
+    return nextLink["href"]
+```
+
+```{python}
+#| column: page
+pageURL = "https://www.ptt.cc/bbs/Gossiping/index.html"
+count = 0
+while count < 3:
+  pageURL = "https://www.ptt.cc" + getData(pageURL)
+  count +=1
 ```
 
