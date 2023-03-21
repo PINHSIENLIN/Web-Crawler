@@ -22,6 +22,7 @@ execute:
 library(reticulate)
 library(tidyverse)
 library(rvest)
+library(reactable)
 library(gt)
 ```
 
@@ -119,7 +120,7 @@ for key in posts:
 ## Request Data(Request Payload Request Body)
 ```{python}
 #| column: page
-# Get url from PTT movies
+# Get url from Medium
 import urllib.request as req
 import json
 url = "https://medium.com/_/graphql"
@@ -142,6 +143,52 @@ for item in items:
   print(item["post"]["title"])
 # print(result["data"]["staffPicksFeed"]["items"][0]["post"]["title"])
 ```
+
+## Selenium
+```{python}
+#| column: page
+#| eval: false
+#| message: false
+# import Selenium module
+from selenium import webdriver
+from msedge.selenium_tools import Edge
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Maximize window
+driver.maximize_window()
+# Connect to Google
+driver.get("https://www.google.com/")
+driver.save_screenshot("screenshot.png")
+driver.close()
+```
+
+## PTT Stock
+```{python}
+#| column: page
+#| eval: false
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect PTT Stock
+driver.get("https://www.ptt.cc/bbs/Stock/index.html")
+# Html page source
+# print(driver.page_source)
+# Class Attribute
+tags = driver.find_elements(By.CLASS_NAME,"title")
+for tag in tags:
+  print(tag.text)
+# Get the previous titles
+link = driver.find_element(By.LINK_TEXT,"‹ 上頁")
+# Simulate clicking
+link.click()
+tags = driver.find_elements(By.CLASS_NAME,"title")
+for tag in tags:
+  print(tag.text)
+driver.close()
+```
+
 
 # R Web Crawler
 
@@ -180,14 +227,42 @@ tibble(
 ## PTT Movies
 ```{r}
 #| column: page
-moveis_url <- read_html("https://www.ptt.cc/bbs/movie/index.html")
+moveis_html <- read_html("https://www.ptt.cc/bbs/movie/index.html")
 ```
 
 ```{r}
 #| column: page
-moveis_url |> 
+moveis_html |> 
            html_elements("div") |> 
            html_elements(".title") |> 
            html_text2()
+```
+
+##  IMDB top films
+```{r}
+#| column: page
+imdb_url <- read_html("https://www.imdb.com/chart/top")
+```
+
+```{r}
+#| column: page
+imdb_url |> 
+         html_element("table") |> 
+         html_table() |> 
+         select(
+             rank_title_year = `Rank & Title`,
+             rating = `IMDb Rating`
+                ) |> 
+         mutate(
+            rank_title_year = str_replace_all(rank_title_year, "\n +", " ")
+               ) |> 
+        separate_wider_regex(
+            rank_title_year,
+              patterns = c(
+               rank = "\\d+", "\\. ",
+               title = ".+", " +\\(",
+               year = "\\d+", "\\)")
+         ) |> 
+         reactable(resizable = T,filterable = T,defaultColDef = colDef(align = "center"))
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: "Web Crawler"
 author: "Alvin, Lin"
-date: "2023-03-18"
+date: "2023-03-20"
 date-format: full
 format:
    html:
@@ -54,24 +54,10 @@ for title in titles:
 
 ::: {.cell-output .cell-output-stdout}
 ```
-[新聞] LEXUS短影片競賽 啟動
-[新聞]《星際異攻隊3》內部試映成績優秀！
-[新聞] 丹佐華盛頓驚喜參演《神鬼戰士 2》！
-Re: [討論] 為什麼楊紫瓊沒拿過金馬獎最佳女主角
-Re: [新聞] 真人版《小美人魚》上映前再爆話題熱
-[新聞] 瑪利歐導演：碧姬公主將不是遇難少女！
-[新聞] 《沙贊2》成為DC最差，爛番茄降至54%
-[請益] 關於黑的教育一些疑問
-[討論] 基努李維上今夜秀宣傳....
-[討論] WW1984反派麥斯
-[問片] 某一部關於天堂地獄、心境轉折的電影
-[偏負雷] 沙讚2 
-[討論] 佈局(看不見的客人) 一問
-[討論] 看過十二夜的心理有留下陰影嗎？？
-[好雷] 沙贊2
-[請益] 請問電影評價站，有哪裡還沒被行銷攻佔
-[討論] 鈴芽之旅的缺點是觀眾觀影素養不足？
-Re: [討論] 新警察故事拍續集 成龍監製 謝霆鋒執導
+[新聞] 《小熊維尼：血與蜜》香港疑被禁上映 包場活動取消、預售連
+[新聞] 沙贊2導演回應負評:短期內不想再拍超英片
+[情報] 2023 台灣影評人協會 得獎名單
+[請益] 珍妮佛勞倫斯，有沒有演技？
 [公告] 電影板板規 2022/12/5
 ```
 :::
@@ -121,71 +107,71 @@ while count < 3:
 
 ::: {.cell-output .cell-output-stdout}
 ```
-[問卦] 為什麼同款小瓶礦泉水比較貴？
-[問卦] 誰會成為台灣的艾蓮。葉卡？
-[問卦] 調漲基本工資 物價也跟漲  有啥意義？
-[問卦] 演唱會前一天先潛入有可能嗎
-[問卦] 一度電8元大概在世界是哪個水準
-[問卦] 台灣用路人心理素質都很差？
-[問卦] 工作交接，女同事做得亂七八糟還嗆人?
-[問卦] 八年級生是不是已經算老人了？
-[問卦] 音樂課才藝表演大家都表演什麼?
-[問卦] 日系阿宅懂日文的占幾成啊？
-Re: [問卦] 幹你娘 重機騎士其實很勇敢
-[問卦] 為什麼軍武版沒看到烏軍營長撤職消息？
-Re: [問卦] 這七年你覺得最低能的事情是啥？
-[問卦] 請問嘉義人，IKEA嘉義店484涼了？
-[問卦] 高速行駛中，要怎麼撞後車？
-[問卦] 女友不溝通都怎麼解決？
-Re: [問卦] 陸戰儀隊操演跟一般儀隊有什麼不一樣？
-[問卦] 漲電價通膨 罵的比 漲基本工資通膨 的少
-Re: [問卦] 幹你娘塔綠班開始帶囤蛋風向了嗎？
-[問卦] 現在還有人care肺炎嗎
+[新聞] 國民黨政黨支持度崩盤 一個月掉9.2個百
+Re: [問卦] 大學情侶沒課時都在小套房裡做什麼？
+Re: [問卦] 女同事問清明連假有沒有空是啥意思
+[問卦] 男同事約我去一起健身該？
+[問卦] 肥宅島就沒幾個人關心運動，要發展個雕
+Re: [問卦] 若終須一戰，台灣有準備嗎?
+[新聞] 省電費！達人揭6招避免冰箱成「吃電怪獸
+[問卦] 大港開唱是只有特定對象才辦嗎
+[問卦] 我就問我們的適應能力是不是越來越強?
+[問卦] 美國把拔跟日本大葛格爭霸，支持誰？
+[問卦] ITZY過氣了嗎
+[新聞]  蔡英文又掛保證：政府會確保「發電系統
+Re: [問卦] 急！要怎麼在一年內蓋好20萬戶社宅
+[問卦] 沒有AV能看時你們都看什麼尻?
+[新聞] 嚇傻！他和妻子在浴缸親密泡澡 遭美洲獅
+Re: [問卦] 瘦宅體臭跟肥宅有什麼不同
+Re: [問卦] 女同事問清明連假有沒有空是啥意思
+[新聞] 弗林效應消失？研究發現人類智商正在下降
+[問卦] 無能無恥廢物在台灣會怎樣 ?
+Re: [新聞]  蔡英文又掛保證：政府會確保「發電系統
 [公告] 八卦板板規(2023.03.01)
 [協尋] 3/3 16：50-17：20大寮區新厝路和新三
 [協尋] 台2濱海事故
 [協尋] 3/15 7:44高雄大寮行車記錄器(更新地點)
 [公告] 代PO 政黑進板圖徵選 5/23截止(每推100P
-Re: [問卦] 2024的總統會是屎缺嗎？
-[問卦] 這七年你覺得最低能的事情是啥？
-Re: [問卦] 2024的總統會是屎缺嗎？
-[問卦]  有木有馬特洪峰的八卦？
-[問卦] 為什麼台灣媽祖信仰那麼興盛？
-[問卦] 基隆港務局空中花園是不是看港景最好veiw
-[問卦] 官方語言改英文是不是會人才流失?
-[問卦] 這是一個黑女巫用武漢肺炎欺負公主的故事
-[問卦] 什麼叫做台灣化？
-[問卦]用心良苦民進黨讓台灣再次偉大
-Re: [新聞] 歐洲不滿中國干預 北京形象如墜落氣球不
-[問卦] 結婚交往後跟其他人有點來往不好嗎
-[問卦] 聽韓團粉絲懂韓文的占幾成啊？
-Re: [問卦]  有木有馬特洪峰的八卦？
-[問卦] 希特勒算是好人還是壞人？
-[新聞] BLACKPINK演唱會全程被擋！網爆「賈永婕
-[問卦] 五月天阿信怎麼了？
-Re: [問卦] 2024的總統會是屎缺嗎？
-[問卦] =.= 高雄好熱歐...
-[新聞] 離婚只為「4人行」！2夫妻同居換換愛　床
-[問卦] 大家願意為美食排多久的隊？
-[問卦] 想追的女生想看black pink你會買嗎？
-[問卦] 大家花了多久才接受君白離開的事實？
-[問卦] 陸戰儀隊操演跟一般儀隊有什麼不一樣？
-[問卦] 館長什麼時候要開半套店？
-[問卦] 馬份演員 演自己本人是演啥劇情？
-[問卦] 什麼時候才要立法禁止7-11印廢紙
-[問卦] 欸！ 俄國女高音順利在日本演出！
-[問卦] 重機騎士車禍後在想什麼？
-[新聞] 私藏大谷翔平一舉一動筆記本　達比修有
-[新聞] 煉金術？倫敦金屬交易所 54噸鎳礦變成石
-[問卦] 從統粉變椅粉了怎麼辦==
-[新聞] 美麗島公布2024最新民調 吳子嘉分析：侯
-[問卦] 女孩最受不了肥宅屌臭還是腳臭
-[新聞] 學生宿舍也漲！台大太子學舍9月調價
-Re: [問卦] 鄉民都怎麼戒酒的？
-[新聞] 台中人孔蓋害「雷殘」 先生手骨折、她懷
-Re: [問卦] 欸幹！警察說這樣不算肇事逃逸？？！
-Re: [問卦] 血小板500cc值多少錢？
-[問卦] 小時候的文具店為何消失了
+[問卦] 北漂仔都怎麼省錢
+[問卦] 美國人會回歐洲 非洲祭祖嗎?
+Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
+[問卦]有人初看超級學校霸王 猜出余鐵雄是誰嗎?
+[問卦] 廣設大學 兵役縮減 能源政策 哪個最致命
+[問卦] 明天領6000會出現什麼亂象
+[問卦] 台海戰爭 與那國島和石垣島會沒事嗎？
+Re: [問卦] 只有我看不懂為何蛋農活不下去嗎？
+[公告]～（＠ｏ＠）～鮭魚親子手卷水桶 
+[問卦] 31年前就有恐龍法官喔？
+[問卦] 台灣棒球世代跟不上的原因為何
+Re: [問卦] 廣設大學 兵役縮減 能源政策 哪個最致命
+[問卦] 瘦宅體臭跟肥宅有什麼不同
+[問卦] 日本跟美國要支持哪隊
+[問卦] 參加芒果台聲生不息寶島季的藝人算舔共嗎
+[問卦] 女同事A叫我幫女同事B介紹男友
+[問卦] 笑死大谷強在哪裡
+Re: [新聞] 正副議長涉賄未境管還能去日本「考察」
+[問卦] 美國職棒什麼時候要承認不如日本職棒
+Re: [新聞] 痘風險續升！近6個月有高風險性行為
+[問卦] 要怎麼跟不合群的同事相處？
+[問卦] 大谷這樣丟頭盔不怕之後被招呼嗎
+[問卦] 各位會預購暗黑四嗎？
+[問卦] 有台灣至寶應該也有日本至寶吧？
+[問卦] 棒球大聯盟是不是先知
+[問卦] 租房買車的人都停哪？
+Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
+[問卦] Why豐田Corolla Cross不引四輪驅動的卦？
+[問卦] 歷史證明 華人女性掌權=敗壞國家對吧
+[問卦] 若終須一戰，台灣有準備嗎?
+Re: [新聞] 洪秀柱:統一是台灣唯一出路,不需要外界其
+Re: [問卦] 孔明不會覺得劉備很虛偽嗎？
+[問卦] 要怎麼阻止女同事抖腳
+[問卦] 風流財子喝茶一次18000是不是被坑？
+Re: [問卦] 為什麼不跟大陸買蛋比較新鮮？
+[問卦] 女同事問清明連假有沒有空是啥意思
+Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
+Re: [問卦] 只有我看不懂為何蛋農活不下去嗎？
+Re: [問卦] 急！要怎麼在一年內蓋好20萬戶社宅
+[問卦] 日本棒球怎麼沒號稱國球？！
 ```
 :::
 :::
@@ -225,40 +211,41 @@ for key in posts:
 
 ::: {.cell-output .cell-output-stdout}
 ```
+Battle of the iPhone contenders: S23 Ultra vs Pixel 7 Pro
+Trickle-Down Apple Silicon
+Maybe Zoom Parties Weren’t So Bad
 Composability in LLM Apps
 Why are women encouraged to go into UX?
-Here’s Everything That Happened At The #BlackTwitterSummit
-Don’t Let Google Manage Your Passwords
-The TRUTH About Smartphone Reviews
+Could A.I. Art Be The Future Of Book Covers?
+It’s Always Convenient to Tell Writers They Aren’t Good Enough
+10 Trends That Will Shape the Online Writing Industry in 2023
 UX lessons from a pottery professor about lean product design
 Why Holding onto Failed Artwork May be Holding You Back
-Creative Writers in the Know Use the Power of Congeries
-Need Help With Your Writing Journey? Here’s What To Do
-Don’t Shy Away From Tricky Topics
 Fundraising Too Early Is the Worst Decision You’ll Make as a Startup Founder
 How can we help?
 The Ultimate Guide to Y-Combinator Applications
 Business Strategy on a Page
 The Rise and Fall of the Dot-Com Foosball Table
-Bartender Refuses to Throw Out 2 Men Kissing at the Bar, Tosses Out Complaining Homophobe Instead
-Maegan Hall, Black Men, Historical Flashbacks…and a Strange Demand for Black Women’s Support
-What the F*** is a ‘Regular Black Woman?’
-The Time I Got Cursed Out By Rapper Talib Kweli
-Things Aren’t Black and White
+Accepting My Ugliness
+Bethany Mandel, Wokeness, Hard Core Lies and Perverted Right Wing Politics!
+My Travels With Bob
+Why Does a Black Woman's Freedom Infuriate So Many People
+Power Laws in Culture
+4D Chess in Card Payments
+What It Means to “Trust the System”
+SVB’s investors will get $2b in public bailout money
 Who Will Make Money from the Generative AI Gold Rush? Part I
 Venture Catastrophists
-Big Business can’t stop its illegal, fantastically lucrative gossiping
-Learning from Silicon Valley Bank’s apologists
+These Three Pills Cost $613
+Permanent Daylight Saving Time: The Good and Bad
+The Bitter Truth of Sugar Substitutes
 Research Shows Fast Poops Are Better
 Six Strange & Scary Sleep Sabotagers
-Mindfulness Meditation Has Great, Research-Backed Benefits
-More Young Folks Have Colorectal Cancer. Why?
-Do You Think You Might Ever Consider Medically Assisted Dying?
+Note to Self: Perfectionism and the Right to Rest
 Why and How to Get More Skillful at Office Politics
 Doing Cal Newport’s Digital Declutter Was Like Finding Gold Under My House
 Back to Basics, Part Tres: Logistic Regression
 The Biggest Issue with Long-Term Productivity
-My Creative Writing Setup
 Employee Expectations Are Changing, and Leaders Must Listen
 Your Employer Should Be Funding Your Commute
 Camille Perri: How I Paid the Bills While I Wrote the Book
@@ -281,7 +268,7 @@ Healthcare Design Is About More Than Aesthetics
 ::: {.cell .column-page}
 
 ```{.python .cell-code}
-# Get url from PTT movies
+# Get url from Medium
 import urllib.request as req
 import json
 url = "https://medium.com/_/graphql"
@@ -307,19 +294,70 @@ for item in items:
 
 ::: {.cell-output .cell-output-stdout}
 ```
+College Basketball’s NET Rankings Explained
+Discovering Creativity: On Your Unique Blob and the Threat of Normalcy
+No Atheists In Foxholes. Or Libertarians In Bank Runs
+You Don’t Have to Diet Until You Die (or, Some Thoughts on Weight Watchers)
+The 13 Rules of Good Luck
+How to Break the Sunday Night Dread Cycle
+Time Enough At Last
 Live Drawing The 95th Oscars
 How to Survive the Stupid Spring Forward of Daylight Saving Time
 I Asked Leading Covid Scientists — Off the Record — About the Virus’s Origins and the ‘Lab Leak’…
-Angela Bassett Is Allowed to be Disappointed
-From Performance Reviews to Awards: The Power of Articulating Impact
-‘Women’s history is women’s right’
-How ‘Should’ Makes Us Stupid — And How to Get Smart Again
-It’s International Women’s Day, and Quantum has a long way to go
-How Devon Price Redefined ‘Lazy’ and Turned His Medium Essay Into a Book
-The art of quitting — lessons from my Ph.D. journey
 ```
 :::
 :::
+
+
+## Selenium
+
+::: {.cell .column-page}
+
+```{.python .cell-code}
+# import Selenium module
+from selenium import webdriver
+from msedge.selenium_tools import Edge
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Maximize window
+driver.maximize_window()
+# Connect to Google
+driver.get("https://www.google.com/")
+driver.save_screenshot("screenshot.png")
+driver.close()
+```
+:::
+
+
+## PTT Stock
+
+::: {.cell .column-page}
+
+```{.python .cell-code}
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect PTT Stock
+driver.get("https://www.ptt.cc/bbs/Stock/index.html")
+# Html page source
+# print(driver.page_source)
+# Class Attribute
+tags = driver.find_elements(By.CLASS_NAME,"title")
+for tag in tags:
+  print(tag.text)
+# Get the previous titles
+link = driver.find_element(By.LINK_TEXT,"‹ 上頁")
+# Simulate clicking
+link.click()
+tags = driver.find_elements(By.CLASS_NAME,"title")
+for tag in tags:
+  print(tag.text)
+driver.close()
+```
+:::
+
 
 
 # R Web Crawler
@@ -363,12 +401,12 @@ tibble(
 ::: {.cell-output-display}
 
 ```{=html}
-<div id="cnipjysnbf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dcnhxomkjm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cnipjysnbf .gt_table {
+#dcnhxomkjm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -393,7 +431,7 @@ tibble(
   border-left-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_heading {
+#dcnhxomkjm .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -405,12 +443,12 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_caption {
+#dcnhxomkjm .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#cnipjysnbf .gt_title {
+#dcnhxomkjm .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -422,7 +460,7 @@ tibble(
   border-bottom-width: 0;
 }
 
-#cnipjysnbf .gt_subtitle {
+#dcnhxomkjm .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -434,13 +472,13 @@ tibble(
   border-top-width: 0;
 }
 
-#cnipjysnbf .gt_bottom_border {
+#dcnhxomkjm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_col_headings {
+#dcnhxomkjm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -455,7 +493,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_col_heading {
+#dcnhxomkjm .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -475,7 +513,7 @@ tibble(
   overflow-x: hidden;
 }
 
-#cnipjysnbf .gt_column_spanner_outer {
+#dcnhxomkjm .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -487,15 +525,15 @@ tibble(
   padding-right: 4px;
 }
 
-#cnipjysnbf .gt_column_spanner_outer:first-child {
+#dcnhxomkjm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cnipjysnbf .gt_column_spanner_outer:last-child {
+#dcnhxomkjm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cnipjysnbf .gt_column_spanner {
+#dcnhxomkjm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -507,7 +545,7 @@ tibble(
   width: 100%;
 }
 
-#cnipjysnbf .gt_group_heading {
+#dcnhxomkjm .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -533,7 +571,7 @@ tibble(
   text-align: left;
 }
 
-#cnipjysnbf .gt_empty_group_heading {
+#dcnhxomkjm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -548,15 +586,15 @@ tibble(
   vertical-align: middle;
 }
 
-#cnipjysnbf .gt_from_md > :first-child {
+#dcnhxomkjm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cnipjysnbf .gt_from_md > :last-child {
+#dcnhxomkjm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cnipjysnbf .gt_row {
+#dcnhxomkjm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -575,7 +613,7 @@ tibble(
   overflow-x: hidden;
 }
 
-#cnipjysnbf .gt_stub {
+#dcnhxomkjm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -588,7 +626,7 @@ tibble(
   padding-right: 5px;
 }
 
-#cnipjysnbf .gt_stub_row_group {
+#dcnhxomkjm .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -602,11 +640,11 @@ tibble(
   vertical-align: top;
 }
 
-#cnipjysnbf .gt_row_group_first td {
+#dcnhxomkjm .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#cnipjysnbf .gt_summary_row {
+#dcnhxomkjm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -616,16 +654,16 @@ tibble(
   padding-right: 5px;
 }
 
-#cnipjysnbf .gt_first_summary_row {
+#dcnhxomkjm .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_first_summary_row.thick {
+#dcnhxomkjm .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#cnipjysnbf .gt_last_summary_row {
+#dcnhxomkjm .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -635,7 +673,7 @@ tibble(
   border-bottom-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_grand_summary_row {
+#dcnhxomkjm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -645,7 +683,7 @@ tibble(
   padding-right: 5px;
 }
 
-#cnipjysnbf .gt_first_grand_summary_row {
+#dcnhxomkjm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -655,11 +693,11 @@ tibble(
   border-top-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_striped {
+#dcnhxomkjm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cnipjysnbf .gt_table_body {
+#dcnhxomkjm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -668,7 +706,7 @@ tibble(
   border-bottom-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_footnotes {
+#dcnhxomkjm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -682,7 +720,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_footnote {
+#dcnhxomkjm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -691,7 +729,7 @@ tibble(
   padding-right: 5px;
 }
 
-#cnipjysnbf .gt_sourcenotes {
+#dcnhxomkjm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -705,7 +743,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#cnipjysnbf .gt_sourcenote {
+#dcnhxomkjm .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -713,64 +751,64 @@ tibble(
   padding-right: 5px;
 }
 
-#cnipjysnbf .gt_left {
+#dcnhxomkjm .gt_left {
   text-align: left;
 }
 
-#cnipjysnbf .gt_center {
+#dcnhxomkjm .gt_center {
   text-align: center;
 }
 
-#cnipjysnbf .gt_right {
+#dcnhxomkjm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cnipjysnbf .gt_font_normal {
+#dcnhxomkjm .gt_font_normal {
   font-weight: normal;
 }
 
-#cnipjysnbf .gt_font_bold {
+#dcnhxomkjm .gt_font_bold {
   font-weight: bold;
 }
 
-#cnipjysnbf .gt_font_italic {
+#dcnhxomkjm .gt_font_italic {
   font-style: italic;
 }
 
-#cnipjysnbf .gt_super {
+#dcnhxomkjm .gt_super {
   font-size: 65%;
 }
 
-#cnipjysnbf .gt_footnote_marks {
+#dcnhxomkjm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#cnipjysnbf .gt_asterisk {
+#dcnhxomkjm .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#cnipjysnbf .gt_indent_1 {
+#dcnhxomkjm .gt_indent_1 {
   text-indent: 5px;
 }
 
-#cnipjysnbf .gt_indent_2 {
+#dcnhxomkjm .gt_indent_2 {
   text-indent: 10px;
 }
 
-#cnipjysnbf .gt_indent_3 {
+#dcnhxomkjm .gt_indent_3 {
   text-indent: 15px;
 }
 
-#cnipjysnbf .gt_indent_4 {
+#dcnhxomkjm .gt_indent_4 {
   text-indent: 20px;
 }
 
-#cnipjysnbf .gt_indent_5 {
+#dcnhxomkjm .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -853,14 +891,14 @@ When completed, this ultimate weapon will spell certain doom for the small band 
 ::: {.cell .column-page}
 
 ```{.r .cell-code}
-moveis_url <- read_html("https://www.ptt.cc/bbs/movie/index.html")
+moveis_html <- read_html("https://www.ptt.cc/bbs/movie/index.html")
 ```
 :::
 
 ::: {.cell .column-page}
 
 ```{.r .cell-code}
-moveis_url |> 
+moveis_html |> 
            html_elements("div") |> 
            html_elements(".title") |> 
            html_text2()
@@ -868,25 +906,54 @@ moveis_url |>
 
 ::: {.cell-output .cell-output-stdout}
 ```
- [1] "[新聞] LEXUS短影片競賽 啟動"                    
- [2] "[新聞]《星際異攻隊3》內部試映成績優秀！"        
- [3] "[新聞] 丹佐華盛頓驚喜參演《神鬼戰士 2》！"      
- [4] "Re: [討論] 為什麼楊紫瓊沒拿過金馬獎最佳女主角"  
- [5] "Re: [新聞] 真人版《小美人魚》上映前再爆話題熱"  
- [6] "[新聞] 瑪利歐導演：碧姬公主將不是遇難少女！"    
- [7] "[新聞] 《沙贊2》成為DC最差，爛番茄降至54%"      
- [8] "[請益] 關於黑的教育一些疑問"                    
- [9] "[討論] 基努李維上今夜秀宣傳...."                
-[10] "[討論] WW1984反派麥斯"                          
-[11] "[問片] 某一部關於天堂地獄、心境轉折的電影"      
-[12] "[偏負雷] 沙讚2"                                 
-[13] "[討論] 佈局(看不見的客人) 一問"                 
-[14] "[討論] 看過十二夜的心理有留下陰影嗎？？"        
-[15] "[好雷] 沙贊2"                                   
-[16] "[請益] 請問電影評價站，有哪裡還沒被行銷攻佔"    
-[17] "[討論] 鈴芽之旅的缺點是觀眾觀影素養不足？"      
-[18] "Re: [討論] 新警察故事拍續集 成龍監製 謝霆鋒執導"
-[19] "[公告] 電影板板規 2022/12/5"                    
+[1] "[新聞] 《小熊維尼：血與蜜》香港疑被禁上映 包場活動取消、預售連"
+[2] "[新聞] 沙贊2導演回應負評:短期內不想再拍超英片"                 
+[3] "[情報] 2023 台灣影評人協會 得獎名單"                           
+[4] "[請益] 珍妮佛勞倫斯，有沒有演技？"                             
+[5] "[公告] 電影板板規 2022/12/5"                                   
 ```
+:::
+:::
+
+
+##  IMDB top films
+
+::: {.cell .column-page}
+
+```{.r .cell-code}
+imdb_url <- read_html("https://www.imdb.com/chart/top")
+```
+:::
+
+::: {.cell .column-page}
+
+```{.r .cell-code}
+imdb_url |> 
+         html_element("table") |> 
+         html_table() |> 
+         select(
+             rank_title_year = `Rank & Title`,
+             rating = `IMDb Rating`
+                ) |> 
+         mutate(
+            rank_title_year = str_replace_all(rank_title_year, "\n +", " ")
+               ) |> 
+        separate_wider_regex(
+            rank_title_year,
+              patterns = c(
+               rank = "\\d+", "\\. ",
+               title = ".+", " +\\(",
+               year = "\\d+", "\\)")
+         ) |> 
+         reactable(resizable = T,filterable = T,defaultColDef = colDef(align = "center"))
+```
+
+::: {.cell-output-display}
+
+```{=html}
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-983eca52a63877fb3e08" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-983eca52a63877fb3e08">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"rank":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168","169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193","194","195","196","197","198","199","200","201","202","203","204","205","206","207","208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","223","224","225","226","227","228","229","230","231","232","233","234","235","236","237","238","239","240","241","242","243","244","245","246","247","248","249","250"],"title":["The Shawshank Redemption","The Godfather","The Dark Knight","The Godfather Part II","12 Angry Men","Schindler's List","The Lord of the Rings: The Return of the King","Pulp Fiction","The Lord of the Rings: The Fellowship of the Ring","The Good, the Bad and the Ugly","Forrest Gump","Fight Club","The Lord of the Rings: The Two Towers","Inception","Star Wars: Episode V - The Empire Strikes Back","The Matrix","Goodfellas","One Flew Over the Cuckoo's Nest","Se7en","Seven Samurai","It's a Wonderful Life","The Silence of the Lambs","Saving Private Ryan","City of God","Interstellar","Life Is Beautiful","The Green Mile","Star Wars","Terminator 2: Judgment Day","Back to the Future","Spirited Away","The Pianist","Psycho","Parasite","Léon: The Professional","The Lion King","Gladiator","American History X","The Departed","The Prestige","The Usual Suspects","Whiplash","Casablanca","Grave of the Fireflies","Harakiri","The Intouchables","Modern Times","Once Upon a Time in the West","Cinema Paradiso","Rear Window","Alien","City Lights","Apocalypse Now","Memento","Django Unchained","Raiders of the Lost Ark","WALL·E","The Lives of Others","Sunset Blvd.","Paths of Glory","The Shining","The Great Dictator","Avengers: Infinity War","Witness for the Prosecution","Aliens","Spider-Man: Into the Spider-Verse","American Beauty","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","The Dark Knight Rises","Oldboy","Inglourious Basterds","Amadeus","Coco","Toy Story","Joker","Braveheart","Das Boot","Avengers: Endgame","Princess Mononoke","Once Upon a Time in America","Good Will Hunting","Your Name.","Singin' in the Rain","3 Idiots","Requiem for a Dream","High and Low","Toy Story 3","Capernaum","Star Wars: Episode VI - Return of the Jedi","2001: A Space Odyssey","Eternal Sunshine of the Spotless Mind","Come and See","Reservoir Dogs","The Hunt","Citizen Kane","M","Lawrence of Arabia","North by Northwest","Ikiru","Vertigo","The Apartment","Amélie","A Clockwork Orange","Double Indemnity","Full Metal Jacket","Scarface","Hamilton","Incendies","Heat","To Kill a Mockingbird","Up","The Sting","A Separation","Metropolis","Taxi Driver","L.A. Confidential","Top Gun: Maverick","Die Hard","Snatch","Indiana Jones and the Last Crusade","Bicycle Thieves","Like Stars on Earth","1917","Downfall","Dangal","For a Few Dollars More","Batman Begins","The Kid","Some Like It Hot","The Father","All About Eve","The Wolf of Wall Street","Green Book","Judgment at Nuremberg","Ran","Casino","The Truman Show","There Will Be Blood","Pan's Labyrinth","Unforgiven","The Sixth Sense","Shutter Island","A Beautiful Mind","Jurassic Park","Yojimbo","The Treasure of the Sierra Madre","Monty Python and the Holy Grail","No Country for Old Men","The Great Escape","Kill Bill: Vol. 1","Rashomon","Spider-Man: No Way Home","The Thing","Finding Nemo","The Elephant Man","Chinatown","Raging Bull","V for Vendetta","Gone with the Wind","Lock, Stock and Two Smoking Barrels","Inside Out","Dial M for Murder","The Secret in Their Eyes","Howl's Moving Castle","Three Billboards Outside Ebbing, Missouri","Trainspotting","The Bridge on the River Kwai","Prisoners","Warrior","Fargo","Gran Torino","My Neighbor Totoro","Catch Me If You Can","Million Dollar Baby","Children of Heaven","Blade Runner","The Gold Rush","Klaus","Before Sunrise","Harry Potter and the Deathly Hallows: Part 2","12 Years a Slave","On the Waterfront","Ben-Hur","The Grand Budapest Hotel","Gone Girl","Wild Strawberries","The General","Barry Lyndon","In the Name of the Father","The Third Man","The Deer Hunter","Hacksaw Ridge","The Wages of Fear","Memories of Murder","Sherlock Jr.","Wild Tales","Mr. Smith Goes to Washington","Mad Max: Fury Road","Mary and Max","The Seventh Seal","How to Train Your Dragon","Monsters, Inc.","Jaws","Room","Dead Poets Society","The Big Lebowski","Tokyo Story","The Passion of Joan of Arc","Ford v Ferrari","Hotel Rwanda","Rocky","Platoon","Ratatouille","Spotlight","Logan","The Terminator","Stand by Me","Rush","Network","Before Sunset","Into the Wild","The Wizard of Oz","The Best Years of Our Lives","Groundhog Day","The Exorcist","Pather Panchali","The Incredibles","To Be or Not to Be","La haine","Pirates of the Caribbean: The Curse of the Black Pearl","The Battle of Algiers","Hachi: A Dog's Tale","The Grapes of Wrath","Jai Bhim","My Father and My Son","Amores Perros","Rebecca","Cool Hand Luke","The Handmaiden","The 400 Blows","The Sound of Music","It Happened One Night","Persona","Life of Brian","The Iron Giant","The Help","Dersu Uzala","Aladdin","Dances with Wolves","Gandhi"],"year":["1994","1972","2008","1974","1957","1993","2003","1994","2001","1966","1994","1999","2002","2010","1980","1999","1990","1975","1995","1954","1946","1991","1998","2002","2014","1997","1999","1977","1991","1985","2001","2002","1960","2019","1994","1994","2000","1998","2006","2006","1995","2014","1942","1988","1962","2011","1936","1968","1988","1954","1979","1931","1979","2000","2012","1981","2008","2006","1950","1957","1980","1940","2018","1957","1986","2018","1999","1964","2012","2003","2009","1984","2017","1995","2019","1995","1981","2019","1997","1984","1997","2016","1952","2009","2000","1963","2010","2018","1983","1968","2004","1985","1992","2012","1941","1931","1962","1959","1952","1958","1960","2001","1971","1944","1987","1983","2020","2010","1995","1962","2009","1973","2011","1927","1976","1997","2022","1988","2000","1989","1948","2007","2019","2004","2016","1965","2005","1921","1959","2020","1950","2013","2018","1961","1985","1995","1998","2007","2006","1992","1999","2010","2001","1993","1961","1948","1975","2007","1963","2003","1950","2021","1982","2003","1980","1974","1980","2005","1939","1998","2015","1954","2009","2004","2017","1996","1957","2013","2011","1996","2008","1988","2002","2004","1997","1982","1925","2019","1995","2011","2013","1954","1959","2014","2014","1957","1926","1975","1993","1949","1978","2016","1953","2003","1924","2014","1939","2015","2009","1957","2010","2001","1975","2015","1989","1998","1953","1928","2019","2004","1976","1986","2007","2015","2017","1984","1986","2013","1976","2004","2007","1939","1946","1993","1973","1955","2004","1942","1995","2003","1966","2009","1940","2021","2005","2000","1940","1967","2016","1959","1965","1934","1966","1979","1999","2011","1975","1992","1990","1982"],"rating":[9.2,9.2,9,9,9,8.9,8.9,8.8,8.8,8.8,8.8,8.7,8.7,8.7,8.7,8.7,8.7,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8]},"columns":[{"id":"rank","name":"rank","type":"character","align":"center"},{"id":"title","name":"title","type":"character","align":"center"},{"id":"year","name":"year","type":"character","align":"center"},{"id":"rating","name":"rating","type":"numeric","align":"center"}],"resizable":true,"filterable":true,"dataKey":"4fe9370c29ca2741240daa5189a25232"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+```
+
 :::
 :::
