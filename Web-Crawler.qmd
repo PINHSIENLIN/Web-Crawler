@@ -189,6 +189,65 @@ for tag in tags:
 driver.close()
 ```
 
+## LinkedIn
+```{python}
+#| column: page
+#| eval: false
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+import time
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect to LinkedIn
+driver.get("https://www.linkedin.com/jobs/search?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.633923221414_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031971&mcid=6994434350142418944&cid=&gclid=EAIaIQobChMI94CEo9Lu_QIVFRatBh0z1gK4EAAYASABEgJ1J_D_BwE&gclsrc=aw.ds&position=1&pageNum=0")
+# Scroll Websites to the most bottom. Simulate with JavaScript
+n = 0
+while n < 3:
+  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+  # Wait for 3 seconds
+  time.sleep(3)
+  n+=1
+# Job Titles
+titleTags = driver.find_elements(By.CLASS_NAME, "base-search-card__title")
+# For Loop
+for titleTag in titleTags:
+  print(titleTag.text)
+driver.close()
+```
+
+## LeetCode
+```{python}
+#| column: page
+#| eval: false
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+import time
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect to LeetCode
+driver.get("https://leetcode.com/accounts/login/")
+# Enter Username and password
+usernameInput = driver.find_element(By.ID, "id_login")
+passwordInput = driver.find_element(By.ID, "id_password")
+# Send information
+usernameInput.send_keys("billy2003live@gmail.com")
+passwordInput.send_keys("Me@0972716677")
+signinBtn = driver.find_element(By.ID,"signin_btn")
+signinBtn.send_keys(Keys.ENTER)
+# Wait for 5 seconds
+time.sleep(5)
+# Access to information
+driver.get("https://leetcode.com/problemset/all/")
+time.sleep(3)
+statElement = driver.find_element(By.CSS_SELECTOR,"[data-difficulty=TOTAL]")
+# print(statElement.text)
+columns = statElement.text.split("\n")
+print(columns[1])
+driver.close()
+```
 
 # R Web Crawler
 
@@ -264,5 +323,27 @@ imdb_url |>
                year = "\\d+", "\\)")
          ) |> 
          reactable(resizable = T,filterable = T,defaultColDef = colDef(align = "center"))
+```
+
+```{r}
+knitr::knit_exit()
+```
+
+## Yahoo Stock
+```{r}
+#| column: page
+yahoo_html <- read_html("https://tw.stock.yahoo.com/world-indices")
+```
+
+```{r}
+yahoo_html |> 
+    html_elements(".Lh\\(20px\\)") |> 
+    html_element("span") |> 
+    html_text2() 
+# Stock Price
+yahoo_html |> 
+    html_elements(".Jc\\(fe\\)") |> 
+    html_text2() 
+
 ```
 

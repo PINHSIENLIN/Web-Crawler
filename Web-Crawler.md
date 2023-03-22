@@ -1,7 +1,7 @@
 ---
 title: "Web Crawler"
 author: "Alvin, Lin"
-date: "2023-03-20"
+date: "2023-03-21"
 date-format: full
 format:
    html:
@@ -54,10 +54,11 @@ for title in titles:
 
 ::: {.cell-output .cell-output-stdout}
 ```
-[新聞] 《小熊維尼：血與蜜》香港疑被禁上映 包場活動取消、預售連
-[新聞] 沙贊2導演回應負評:短期內不想再拍超英片
-[情報] 2023 台灣影評人協會 得獎名單
-[請益] 珍妮佛勞倫斯，有沒有演技？
+[新聞] 沙贊戲外槓上黑亞當 證實巨石不讓他客串
+Re: [討論] 進擊的鼓手-嚴厲的老師是錯的嗎? (雷)
+[新聞] 電視插播致中國5000人遭非法逮捕 紀錄片還原真相
+Re: [討論] 進擊的鼓手-嚴厲的老師是錯的嗎? (雷)
+[情報] 《戰爭機器》改編電影編劇確定
 [公告] 電影板板規 2022/12/5
 ```
 :::
@@ -107,71 +108,62 @@ while count < 3:
 
 ::: {.cell-output .cell-output-stdout}
 ```
-[新聞] 國民黨政黨支持度崩盤 一個月掉9.2個百
-Re: [問卦] 大學情侶沒課時都在小套房裡做什麼？
-Re: [問卦] 女同事問清明連假有沒有空是啥意思
-[問卦] 男同事約我去一起健身該？
-[問卦] 肥宅島就沒幾個人關心運動，要發展個雕
-Re: [問卦] 若終須一戰，台灣有準備嗎?
-[新聞] 省電費！達人揭6招避免冰箱成「吃電怪獸
-[問卦] 大港開唱是只有特定對象才辦嗎
-[問卦] 我就問我們的適應能力是不是越來越強?
-[問卦] 美國把拔跟日本大葛格爭霸，支持誰？
-[問卦] ITZY過氣了嗎
-[新聞]  蔡英文又掛保證：政府會確保「發電系統
-Re: [問卦] 急！要怎麼在一年內蓋好20萬戶社宅
-[問卦] 沒有AV能看時你們都看什麼尻?
-[新聞] 嚇傻！他和妻子在浴缸親密泡澡 遭美洲獅
-Re: [問卦] 瘦宅體臭跟肥宅有什麼不同
-Re: [問卦] 女同事問清明連假有沒有空是啥意思
-[新聞] 弗林效應消失？研究發現人類智商正在下降
-[問卦] 無能無恥廢物在台灣會怎樣 ?
-Re: [新聞]  蔡英文又掛保證：政府會確保「發電系統
+[問卦] 慟 哇操 我把同事的髮卷捏碎了 ==
+Re: [爆卦] 被民眾抓包不開單 台南警：違停有惹到你嗎
+[新聞] 猴痘疫苗今開打！本土已爆10例「分布8縣
+Re: [新聞] 關稅、運費農委會全吸收 陳吉仲：已
+[問卦] 什麼時候才吃的到茶葉蛋
+[新聞] 確保不缺電 總統：已做好三大努力
+[問卦] 電子菸不能抽要用什麼替代
+Re: [問卦] 人類是怎麼確定同性戀不是疾病？
 [公告] 八卦板板規(2023.03.01)
 [協尋] 3/3 16：50-17：20大寮區新厝路和新三
 [協尋] 台2濱海事故
 [協尋] 3/15 7:44高雄大寮行車記錄器(更新地點)
 [公告] 代PO 政黑進板圖徵選 5/23截止(每推100P
-[問卦] 北漂仔都怎麼省錢
-[問卦] 美國人會回歐洲 非洲祭祖嗎?
-Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
-[問卦]有人初看超級學校霸王 猜出余鐵雄是誰嗎?
-[問卦] 廣設大學 兵役縮減 能源政策 哪個最致命
-[問卦] 明天領6000會出現什麼亂象
-[問卦] 台海戰爭 與那國島和石垣島會沒事嗎？
-Re: [問卦] 只有我看不懂為何蛋農活不下去嗎？
-[公告]～（＠ｏ＠）～鮭魚親子手卷水桶 
-[問卦] 31年前就有恐龍法官喔？
-[問卦] 台灣棒球世代跟不上的原因為何
-Re: [問卦] 廣設大學 兵役縮減 能源政策 哪個最致命
-[問卦] 瘦宅體臭跟肥宅有什麼不同
-[問卦] 日本跟美國要支持哪隊
-[問卦] 參加芒果台聲生不息寶島季的藝人算舔共嗎
-[問卦] 女同事A叫我幫女同事B介紹男友
-[問卦] 笑死大谷強在哪裡
-Re: [新聞] 正副議長涉賄未境管還能去日本「考察」
-[問卦] 美國職棒什麼時候要承認不如日本職棒
-Re: [新聞] 痘風險續升！近6個月有高風險性行為
-[問卦] 要怎麼跟不合群的同事相處？
-[問卦] 大谷這樣丟頭盔不怕之後被招呼嗎
-[問卦] 各位會預購暗黑四嗎？
-[問卦] 有台灣至寶應該也有日本至寶吧？
-[問卦] 棒球大聯盟是不是先知
-[問卦] 租房買車的人都停哪？
-Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
-[問卦] Why豐田Corolla Cross不引四輪驅動的卦？
-[問卦] 歷史證明 華人女性掌權=敗壞國家對吧
-[問卦] 若終須一戰，台灣有準備嗎?
-Re: [新聞] 洪秀柱:統一是台灣唯一出路,不需要外界其
-Re: [問卦] 孔明不會覺得劉備很虛偽嗎？
-[問卦] 要怎麼阻止女同事抖腳
-[問卦] 風流財子喝茶一次18000是不是被坑？
-Re: [問卦] 為什麼不跟大陸買蛋比較新鮮？
-[問卦] 女同事問清明連假有沒有空是啥意思
-Re: [新聞] 伊拉克戰爭20年　美國師出無名.8年戰爭留
-Re: [問卦] 只有我看不懂為何蛋農活不下去嗎？
-Re: [問卦] 急！要怎麼在一年內蓋好20萬戶社宅
-[問卦] 日本棒球怎麼沒號稱國球？！
+[問卦] 萊爾富的三角飯糰是不是超商中最好吃的?
+[問卦] 遇到蜥蜴怎麼抓
+[新聞] 侯友宜民調滑鐵盧　前宋楚瑜文膽曝關鍵
+Re: [新聞] 悚！桃園男子深夜鬧區墜樓屍首分離 頭顱
+[問卦] 學日語的人會變多嗎？
+[問卦] 為何警察抓賣春不抓違停
+Re: [新聞] 名嘴批能源政策錯誤 台電：核能大國電價
+[問卦] 麥當勞新的1+1主打省錢？
+[問卦] 剛學會轉移大法 要轉移什麼
+[問卦] 小智一行人會有事嗎？
+Re: [新聞] 被徵召選2024「義無反顧」？侯友宜：
+Re: [問卦] 俄羅斯被西方制裁沒什麼用?
+[新聞] 關稅、運費農委會全吸收 陳吉仲：已有2家
+[新聞] 【富尪神隱逼搬家】昔為愛淡出演藝圈！
+[問卦] 迪士尼跟摩天輪是怎麼樣的構想
+Re: [爆卦] 大谷翔平17歲預言自己27歲拿下WBC MVP
+[問卦] 戰女f*f跟邦邦p*p  哪團比較慘？？
+Re: [新聞] 進口雞蛋再擴大！陳吉仲：4、5月各進口30
+[公告] 八卦板板規(2023.03.01)
+[協尋] 3/3 16：50-17：20大寮區新厝路和新三
+[協尋] 台2濱海事故
+[協尋] 3/15 7:44高雄大寮行車記錄器(更新地點)
+[公告] 代PO 政黑進板圖徵選 5/23截止(每推100P
+[問卦] 現在公務員很會唬爛很會包裝？
+Re: [問卦] 驚！不婚不生老了會很慘？
+[新聞] 惡師版《黑暗榮耀》！6師逼死高中生　搜
+Re: [新聞] 高虹安查棒球場 挖「上級施壓」趕工開幕
+[問卦] 目前日本社會對日本隊贏球的反應是如何
+Re: [問卦] 如果台海開戰 鄉民真的不想上戰場嗎
+Re: [新聞] 學創人員以有男老師為由禁學生穿緊身褲 
+[問卦] 阿姨的VR很有看頭
+Re: [新聞] 就是拜登下令的! 美國名記者再爆料 炸北
+[問卦] 彰化市有啥好吃的 在線等
+[問卦] 酒店都是像華燈初上演的那樣嗎？
+[新聞] 調查稱「中國人幸福感最高」 被嘲「不敢不
+[問卦] 轉帳一天限3萬 為何不像信用卡給額度?
+[問卦] 半躺平選路易莎/星巴克打工?
+[問卦] 大谷翔平能夠完美的演出楊過這個腳色嗎?
+Re: [問卦] 如果台海開戰 鄉民真的不想上戰場嗎
+[問卦] 迴轉壽司完全沒有位子？
+[問卦] 棒球是不是很無聊？
+[新聞] 連綠粉都倒戈！盧秀燕「神級民調」創94％
+[問卦] 不接受徵招才關幾年划算吧？
 ```
 :::
 :::
@@ -211,11 +203,11 @@ for key in posts:
 
 ::: {.cell-output .cell-output-stdout}
 ```
+What Will Humans Do In An Artificially Intelligent World?
 Battle of the iPhone contenders: S23 Ultra vs Pixel 7 Pro
 Trickle-Down Apple Silicon
 Maybe Zoom Parties Weren’t So Bad
 Composability in LLM Apps
-Why are women encouraged to go into UX?
 Could A.I. Art Be The Future Of Book Covers?
 It’s Always Convenient to Tell Writers They Aren’t Good Enough
 10 Trends That Will Shape the Online Writing Industry in 2023
@@ -226,26 +218,26 @@ How can we help?
 The Ultimate Guide to Y-Combinator Applications
 Business Strategy on a Page
 The Rise and Fall of the Dot-Com Foosball Table
+New Expressions of Selfhood Favour Growth-Based Futures
 Accepting My Ugliness
 Bethany Mandel, Wokeness, Hard Core Lies and Perverted Right Wing Politics!
 My Travels With Bob
 Why Does a Black Woman's Freedom Infuriate So Many People
-Power Laws in Culture
+Why Meta’s embrace of a ‘flat’ management structure may not lead to the innovation Zuckerberg hopes…
 4D Chess in Card Payments
 What It Means to “Trust the System”
 SVB’s investors will get $2b in public bailout money
 Who Will Make Money from the Generative AI Gold Rush? Part I
-Venture Catastrophists
-These Three Pills Cost $613
-Permanent Daylight Saving Time: The Good and Bad
-The Bitter Truth of Sugar Substitutes
-Research Shows Fast Poops Are Better
-Six Strange & Scary Sleep Sabotagers
+Run to reconnect with your body
+My doctor says they have to lower my long-term opioid medicine. “What can I do? What do I say?”
+IVF Failed Me. The System Shouldn’t Have, Too.
+Transform Your Life: How I Corrected My Posture and Fixed My Neck Hump in One Year — A Personal…
+This sweetener has an unexpected impact on immunity
+How To Keep Productivity And Motivation During The War?
 Note to Self: Perfectionism and the Right to Rest
 Why and How to Get More Skillful at Office Politics
 Doing Cal Newport’s Digital Declutter Was Like Finding Gold Under My House
 Back to Basics, Part Tres: Logistic Regression
-The Biggest Issue with Long-Term Productivity
 Employee Expectations Are Changing, and Leaders Must Listen
 Your Employer Should Be Funding Your Commute
 Camille Perri: How I Paid the Bills While I Wrote the Book
@@ -294,16 +286,16 @@ for item in items:
 
 ::: {.cell-output .cell-output-stdout}
 ```
+Note to Self: Perfectionism and the Right to Rest
+Five Steps For How I Build Brands
+The Curse of Perfect
+A Simple Strategy for Boosting Happiness and Health: Spend Time in Nature
+What’s Going On? The Silicon Valley Bank Collapse vs. the 2008 Financial Crisis
+What We’re Reading: We asked for your stories and you delivered
 College Basketball’s NET Rankings Explained
 Discovering Creativity: On Your Unique Blob and the Threat of Normalcy
 No Atheists In Foxholes. Or Libertarians In Bank Runs
 You Don’t Have to Diet Until You Die (or, Some Thoughts on Weight Watchers)
-The 13 Rules of Good Luck
-How to Break the Sunday Night Dread Cycle
-Time Enough At Last
-Live Drawing The 95th Oscars
-How to Survive the Stupid Spring Forward of Daylight Saving Time
-I Asked Leading Covid Scientists — Off the Record — About the Virus’s Origins and the ‘Lab Leak’…
 ```
 :::
 :::
@@ -359,6 +351,71 @@ driver.close()
 :::
 
 
+## LinkedIn
+
+::: {.cell .column-page}
+
+```{.python .cell-code}
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+import time
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect to LinkedIn
+driver.get("https://www.linkedin.com/jobs/search?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.633923221414_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031971&mcid=6994434350142418944&cid=&gclid=EAIaIQobChMI94CEo9Lu_QIVFRatBh0z1gK4EAAYASABEgJ1J_D_BwE&gclsrc=aw.ds&position=1&pageNum=0")
+# Scroll Websites to the most bottom. Simulate with JavaScript
+n = 0
+while n < 3:
+  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+  # Wait for 3 seconds
+  time.sleep(3)
+  n+=1
+# Job Titles
+titleTags = driver.find_elements(By.CLASS_NAME, "base-search-card__title")
+# For Loop
+for titleTag in titleTags:
+  print(titleTag.text)
+driver.close()
+```
+:::
+
+
+## LeetCode
+
+::: {.cell .column-page}
+
+```{.python .cell-code}
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from msedge.selenium_tools import Edge
+import time
+# Path to Driver
+driver = Edge(executable_path = "msedgedriver.exe")
+# Connect to LeetCode
+driver.get("https://leetcode.com/accounts/login/")
+# Enter Username and password
+usernameInput = driver.find_element(By.ID, "id_login")
+passwordInput = driver.find_element(By.ID, "id_password")
+# Send information
+usernameInput.send_keys("billy2003live@gmail.com")
+passwordInput.send_keys("Me@0972716677")
+signinBtn = driver.find_element(By.ID,"signin_btn")
+signinBtn.send_keys(Keys.ENTER)
+# Wait for 5 seconds
+time.sleep(5)
+# Access to information
+driver.get("https://leetcode.com/problemset/all/")
+time.sleep(3)
+statElement = driver.find_element(By.CSS_SELECTOR,"[data-difficulty=TOTAL]")
+# print(statElement.text)
+columns = statElement.text.split("\n")
+print(columns[1])
+driver.close()
+```
+:::
+
 
 # R Web Crawler
 
@@ -401,12 +458,12 @@ tibble(
 ::: {.cell-output-display}
 
 ```{=html}
-<div id="dcnhxomkjm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ajrtpfqfpv" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#dcnhxomkjm .gt_table {
+#ajrtpfqfpv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -431,7 +488,7 @@ tibble(
   border-left-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_heading {
+#ajrtpfqfpv .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -443,12 +500,12 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_caption {
+#ajrtpfqfpv .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#dcnhxomkjm .gt_title {
+#ajrtpfqfpv .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -460,7 +517,7 @@ tibble(
   border-bottom-width: 0;
 }
 
-#dcnhxomkjm .gt_subtitle {
+#ajrtpfqfpv .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -472,13 +529,13 @@ tibble(
   border-top-width: 0;
 }
 
-#dcnhxomkjm .gt_bottom_border {
+#ajrtpfqfpv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_col_headings {
+#ajrtpfqfpv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -493,7 +550,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_col_heading {
+#ajrtpfqfpv .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -513,7 +570,7 @@ tibble(
   overflow-x: hidden;
 }
 
-#dcnhxomkjm .gt_column_spanner_outer {
+#ajrtpfqfpv .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -525,15 +582,15 @@ tibble(
   padding-right: 4px;
 }
 
-#dcnhxomkjm .gt_column_spanner_outer:first-child {
+#ajrtpfqfpv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dcnhxomkjm .gt_column_spanner_outer:last-child {
+#ajrtpfqfpv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dcnhxomkjm .gt_column_spanner {
+#ajrtpfqfpv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -545,7 +602,7 @@ tibble(
   width: 100%;
 }
 
-#dcnhxomkjm .gt_group_heading {
+#ajrtpfqfpv .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -571,7 +628,7 @@ tibble(
   text-align: left;
 }
 
-#dcnhxomkjm .gt_empty_group_heading {
+#ajrtpfqfpv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -586,15 +643,15 @@ tibble(
   vertical-align: middle;
 }
 
-#dcnhxomkjm .gt_from_md > :first-child {
+#ajrtpfqfpv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dcnhxomkjm .gt_from_md > :last-child {
+#ajrtpfqfpv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dcnhxomkjm .gt_row {
+#ajrtpfqfpv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -613,7 +670,7 @@ tibble(
   overflow-x: hidden;
 }
 
-#dcnhxomkjm .gt_stub {
+#ajrtpfqfpv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -626,7 +683,7 @@ tibble(
   padding-right: 5px;
 }
 
-#dcnhxomkjm .gt_stub_row_group {
+#ajrtpfqfpv .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -640,11 +697,11 @@ tibble(
   vertical-align: top;
 }
 
-#dcnhxomkjm .gt_row_group_first td {
+#ajrtpfqfpv .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#dcnhxomkjm .gt_summary_row {
+#ajrtpfqfpv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -654,16 +711,16 @@ tibble(
   padding-right: 5px;
 }
 
-#dcnhxomkjm .gt_first_summary_row {
+#ajrtpfqfpv .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_first_summary_row.thick {
+#ajrtpfqfpv .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#dcnhxomkjm .gt_last_summary_row {
+#ajrtpfqfpv .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -673,7 +730,7 @@ tibble(
   border-bottom-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_grand_summary_row {
+#ajrtpfqfpv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -683,7 +740,7 @@ tibble(
   padding-right: 5px;
 }
 
-#dcnhxomkjm .gt_first_grand_summary_row {
+#ajrtpfqfpv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -693,11 +750,11 @@ tibble(
   border-top-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_striped {
+#ajrtpfqfpv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dcnhxomkjm .gt_table_body {
+#ajrtpfqfpv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -706,7 +763,7 @@ tibble(
   border-bottom-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_footnotes {
+#ajrtpfqfpv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -720,7 +777,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_footnote {
+#ajrtpfqfpv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -729,7 +786,7 @@ tibble(
   padding-right: 5px;
 }
 
-#dcnhxomkjm .gt_sourcenotes {
+#ajrtpfqfpv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -743,7 +800,7 @@ tibble(
   border-right-color: #D3D3D3;
 }
 
-#dcnhxomkjm .gt_sourcenote {
+#ajrtpfqfpv .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -751,64 +808,64 @@ tibble(
   padding-right: 5px;
 }
 
-#dcnhxomkjm .gt_left {
+#ajrtpfqfpv .gt_left {
   text-align: left;
 }
 
-#dcnhxomkjm .gt_center {
+#ajrtpfqfpv .gt_center {
   text-align: center;
 }
 
-#dcnhxomkjm .gt_right {
+#ajrtpfqfpv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dcnhxomkjm .gt_font_normal {
+#ajrtpfqfpv .gt_font_normal {
   font-weight: normal;
 }
 
-#dcnhxomkjm .gt_font_bold {
+#ajrtpfqfpv .gt_font_bold {
   font-weight: bold;
 }
 
-#dcnhxomkjm .gt_font_italic {
+#ajrtpfqfpv .gt_font_italic {
   font-style: italic;
 }
 
-#dcnhxomkjm .gt_super {
+#ajrtpfqfpv .gt_super {
   font-size: 65%;
 }
 
-#dcnhxomkjm .gt_footnote_marks {
+#ajrtpfqfpv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#dcnhxomkjm .gt_asterisk {
+#ajrtpfqfpv .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#dcnhxomkjm .gt_indent_1 {
+#ajrtpfqfpv .gt_indent_1 {
   text-indent: 5px;
 }
 
-#dcnhxomkjm .gt_indent_2 {
+#ajrtpfqfpv .gt_indent_2 {
   text-indent: 10px;
 }
 
-#dcnhxomkjm .gt_indent_3 {
+#ajrtpfqfpv .gt_indent_3 {
   text-indent: 15px;
 }
 
-#dcnhxomkjm .gt_indent_4 {
+#ajrtpfqfpv .gt_indent_4 {
   text-indent: 20px;
 }
 
-#dcnhxomkjm .gt_indent_5 {
+#ajrtpfqfpv .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -906,11 +963,12 @@ moveis_html |>
 
 ::: {.cell-output .cell-output-stdout}
 ```
-[1] "[新聞] 《小熊維尼：血與蜜》香港疑被禁上映 包場活動取消、預售連"
-[2] "[新聞] 沙贊2導演回應負評:短期內不想再拍超英片"                 
-[3] "[情報] 2023 台灣影評人協會 得獎名單"                           
-[4] "[請益] 珍妮佛勞倫斯，有沒有演技？"                             
-[5] "[公告] 電影板板規 2022/12/5"                                   
+[1] "[新聞] 沙贊戲外槓上黑亞當 證實巨石不讓他客串"        
+[2] "Re: [討論] 進擊的鼓手-嚴厲的老師是錯的嗎? (雷)"      
+[3] "[新聞] 電視插播致中國5000人遭非法逮捕 紀錄片還原真相"
+[4] "Re: [討論] 進擊的鼓手-嚴厲的老師是錯的嗎? (雷)"      
+[5] "[情報] 《戰爭機器》改編電影編劇確定"                 
+[6] "[公告] 電影板板規 2022/12/5"                         
 ```
 :::
 :::
@@ -951,9 +1009,20 @@ imdb_url |>
 ::: {.cell-output-display}
 
 ```{=html}
-<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-983eca52a63877fb3e08" style="width:auto;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-983eca52a63877fb3e08">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"rank":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168","169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193","194","195","196","197","198","199","200","201","202","203","204","205","206","207","208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","223","224","225","226","227","228","229","230","231","232","233","234","235","236","237","238","239","240","241","242","243","244","245","246","247","248","249","250"],"title":["The Shawshank Redemption","The Godfather","The Dark Knight","The Godfather Part II","12 Angry Men","Schindler's List","The Lord of the Rings: The Return of the King","Pulp Fiction","The Lord of the Rings: The Fellowship of the Ring","The Good, the Bad and the Ugly","Forrest Gump","Fight Club","The Lord of the Rings: The Two Towers","Inception","Star Wars: Episode V - The Empire Strikes Back","The Matrix","Goodfellas","One Flew Over the Cuckoo's Nest","Se7en","Seven Samurai","It's a Wonderful Life","The Silence of the Lambs","Saving Private Ryan","City of God","Interstellar","Life Is Beautiful","The Green Mile","Star Wars","Terminator 2: Judgment Day","Back to the Future","Spirited Away","The Pianist","Psycho","Parasite","Léon: The Professional","The Lion King","Gladiator","American History X","The Departed","The Prestige","The Usual Suspects","Whiplash","Casablanca","Grave of the Fireflies","Harakiri","The Intouchables","Modern Times","Once Upon a Time in the West","Cinema Paradiso","Rear Window","Alien","City Lights","Apocalypse Now","Memento","Django Unchained","Raiders of the Lost Ark","WALL·E","The Lives of Others","Sunset Blvd.","Paths of Glory","The Shining","The Great Dictator","Avengers: Infinity War","Witness for the Prosecution","Aliens","Spider-Man: Into the Spider-Verse","American Beauty","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","The Dark Knight Rises","Oldboy","Inglourious Basterds","Amadeus","Coco","Toy Story","Joker","Braveheart","Das Boot","Avengers: Endgame","Princess Mononoke","Once Upon a Time in America","Good Will Hunting","Your Name.","Singin' in the Rain","3 Idiots","Requiem for a Dream","High and Low","Toy Story 3","Capernaum","Star Wars: Episode VI - Return of the Jedi","2001: A Space Odyssey","Eternal Sunshine of the Spotless Mind","Come and See","Reservoir Dogs","The Hunt","Citizen Kane","M","Lawrence of Arabia","North by Northwest","Ikiru","Vertigo","The Apartment","Amélie","A Clockwork Orange","Double Indemnity","Full Metal Jacket","Scarface","Hamilton","Incendies","Heat","To Kill a Mockingbird","Up","The Sting","A Separation","Metropolis","Taxi Driver","L.A. Confidential","Top Gun: Maverick","Die Hard","Snatch","Indiana Jones and the Last Crusade","Bicycle Thieves","Like Stars on Earth","1917","Downfall","Dangal","For a Few Dollars More","Batman Begins","The Kid","Some Like It Hot","The Father","All About Eve","The Wolf of Wall Street","Green Book","Judgment at Nuremberg","Ran","Casino","The Truman Show","There Will Be Blood","Pan's Labyrinth","Unforgiven","The Sixth Sense","Shutter Island","A Beautiful Mind","Jurassic Park","Yojimbo","The Treasure of the Sierra Madre","Monty Python and the Holy Grail","No Country for Old Men","The Great Escape","Kill Bill: Vol. 1","Rashomon","Spider-Man: No Way Home","The Thing","Finding Nemo","The Elephant Man","Chinatown","Raging Bull","V for Vendetta","Gone with the Wind","Lock, Stock and Two Smoking Barrels","Inside Out","Dial M for Murder","The Secret in Their Eyes","Howl's Moving Castle","Three Billboards Outside Ebbing, Missouri","Trainspotting","The Bridge on the River Kwai","Prisoners","Warrior","Fargo","Gran Torino","My Neighbor Totoro","Catch Me If You Can","Million Dollar Baby","Children of Heaven","Blade Runner","The Gold Rush","Klaus","Before Sunrise","Harry Potter and the Deathly Hallows: Part 2","12 Years a Slave","On the Waterfront","Ben-Hur","The Grand Budapest Hotel","Gone Girl","Wild Strawberries","The General","Barry Lyndon","In the Name of the Father","The Third Man","The Deer Hunter","Hacksaw Ridge","The Wages of Fear","Memories of Murder","Sherlock Jr.","Wild Tales","Mr. Smith Goes to Washington","Mad Max: Fury Road","Mary and Max","The Seventh Seal","How to Train Your Dragon","Monsters, Inc.","Jaws","Room","Dead Poets Society","The Big Lebowski","Tokyo Story","The Passion of Joan of Arc","Ford v Ferrari","Hotel Rwanda","Rocky","Platoon","Ratatouille","Spotlight","Logan","The Terminator","Stand by Me","Rush","Network","Before Sunset","Into the Wild","The Wizard of Oz","The Best Years of Our Lives","Groundhog Day","The Exorcist","Pather Panchali","The Incredibles","To Be or Not to Be","La haine","Pirates of the Caribbean: The Curse of the Black Pearl","The Battle of Algiers","Hachi: A Dog's Tale","The Grapes of Wrath","Jai Bhim","My Father and My Son","Amores Perros","Rebecca","Cool Hand Luke","The Handmaiden","The 400 Blows","The Sound of Music","It Happened One Night","Persona","Life of Brian","The Iron Giant","The Help","Dersu Uzala","Aladdin","Dances with Wolves","Gandhi"],"year":["1994","1972","2008","1974","1957","1993","2003","1994","2001","1966","1994","1999","2002","2010","1980","1999","1990","1975","1995","1954","1946","1991","1998","2002","2014","1997","1999","1977","1991","1985","2001","2002","1960","2019","1994","1994","2000","1998","2006","2006","1995","2014","1942","1988","1962","2011","1936","1968","1988","1954","1979","1931","1979","2000","2012","1981","2008","2006","1950","1957","1980","1940","2018","1957","1986","2018","1999","1964","2012","2003","2009","1984","2017","1995","2019","1995","1981","2019","1997","1984","1997","2016","1952","2009","2000","1963","2010","2018","1983","1968","2004","1985","1992","2012","1941","1931","1962","1959","1952","1958","1960","2001","1971","1944","1987","1983","2020","2010","1995","1962","2009","1973","2011","1927","1976","1997","2022","1988","2000","1989","1948","2007","2019","2004","2016","1965","2005","1921","1959","2020","1950","2013","2018","1961","1985","1995","1998","2007","2006","1992","1999","2010","2001","1993","1961","1948","1975","2007","1963","2003","1950","2021","1982","2003","1980","1974","1980","2005","1939","1998","2015","1954","2009","2004","2017","1996","1957","2013","2011","1996","2008","1988","2002","2004","1997","1982","1925","2019","1995","2011","2013","1954","1959","2014","2014","1957","1926","1975","1993","1949","1978","2016","1953","2003","1924","2014","1939","2015","2009","1957","2010","2001","1975","2015","1989","1998","1953","1928","2019","2004","1976","1986","2007","2015","2017","1984","1986","2013","1976","2004","2007","1939","1946","1993","1973","1955","2004","1942","1995","2003","1966","2009","1940","2021","2005","2000","1940","1967","2016","1959","1965","1934","1966","1979","1999","2011","1975","1992","1990","1982"],"rating":[9.2,9.2,9,9,9,8.9,8.9,8.8,8.8,8.8,8.8,8.7,8.7,8.7,8.7,8.7,8.7,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8]},"columns":[{"id":"rank","name":"rank","type":"character","align":"center"},{"id":"title","name":"title","type":"character","align":"center"},{"id":"year","name":"year","type":"character","align":"center"},{"id":"rating","name":"rating","type":"numeric","align":"center"}],"resizable":true,"filterable":true,"dataKey":"4fe9370c29ca2741240daa5189a25232"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-b5c1fefcf891e5755beb" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-b5c1fefcf891e5755beb">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"rank":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168","169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193","194","195","196","197","198","199","200","201","202","203","204","205","206","207","208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","223","224","225","226","227","228","229","230","231","232","233","234","235","236","237","238","239","240","241","242","243","244","245","246","247","248","249","250"],"title":["The Shawshank Redemption","The Godfather","The Dark Knight","The Godfather Part II","12 Angry Men","Schindler's List","The Lord of the Rings: The Return of the King","Pulp Fiction","The Lord of the Rings: The Fellowship of the Ring","The Good, the Bad and the Ugly","Forrest Gump","Fight Club","The Lord of the Rings: The Two Towers","Inception","Star Wars: Episode V - The Empire Strikes Back","The Matrix","Goodfellas","One Flew Over the Cuckoo's Nest","Se7en","Seven Samurai","It's a Wonderful Life","The Silence of the Lambs","Saving Private Ryan","City of God","Interstellar","Life Is Beautiful","The Green Mile","Star Wars","Terminator 2: Judgment Day","Back to the Future","Spirited Away","The Pianist","Psycho","Parasite","Léon: The Professional","The Lion King","Gladiator","American History X","The Departed","The Prestige","The Usual Suspects","Whiplash","Casablanca","Grave of the Fireflies","Harakiri","The Intouchables","Modern Times","Once Upon a Time in the West","Cinema Paradiso","Rear Window","Alien","City Lights","Apocalypse Now","Memento","Django Unchained","Raiders of the Lost Ark","WALL·E","The Lives of Others","Sunset Blvd.","Paths of Glory","The Shining","The Great Dictator","Avengers: Infinity War","Witness for the Prosecution","Aliens","Spider-Man: Into the Spider-Verse","American Beauty","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","The Dark Knight Rises","Oldboy","Inglourious Basterds","Amadeus","Coco","Toy Story","Joker","Braveheart","Das Boot","Avengers: Endgame","Princess Mononoke","Once Upon a Time in America","Good Will Hunting","Your Name.","Singin' in the Rain","3 Idiots","Requiem for a Dream","High and Low","Toy Story 3","Capernaum","Star Wars: Episode VI - Return of the Jedi","Eternal Sunshine of the Spotless Mind","2001: A Space Odyssey","Come and See","Reservoir Dogs","The Hunt","Citizen Kane","M","Lawrence of Arabia","North by Northwest","Ikiru","Vertigo","The Apartment","Amélie","A Clockwork Orange","Double Indemnity","Full Metal Jacket","Scarface","Hamilton","Incendies","Heat","To Kill a Mockingbird","Up","The Sting","A Separation","Metropolis","Taxi Driver","L.A. Confidential","Die Hard","Top Gun: Maverick","Snatch","Indiana Jones and the Last Crusade","Bicycle Thieves","Like Stars on Earth","1917","Downfall","Dangal","For a Few Dollars More","Batman Begins","The Kid","Some Like It Hot","The Father","All About Eve","The Wolf of Wall Street","Green Book","Judgment at Nuremberg","Ran","Casino","The Truman Show","There Will Be Blood","Pan's Labyrinth","Unforgiven","The Sixth Sense","Shutter Island","A Beautiful Mind","Jurassic Park","Yojimbo","The Treasure of the Sierra Madre","Monty Python and the Holy Grail","No Country for Old Men","The Great Escape","Kill Bill: Vol. 1","Rashomon","Spider-Man: No Way Home","The Thing","Finding Nemo","The Elephant Man","Chinatown","Raging Bull","V for Vendetta","Gone with the Wind","Lock, Stock and Two Smoking Barrels","Dial M for Murder","Inside Out","The Secret in Their Eyes","Howl's Moving Castle","Three Billboards Outside Ebbing, Missouri","Trainspotting","The Bridge on the River Kwai","Prisoners","Warrior","Fargo","Gran Torino","My Neighbor Totoro","Catch Me If You Can","Million Dollar Baby","Children of Heaven","Blade Runner","The Gold Rush","Klaus","Before Sunrise","Harry Potter and the Deathly Hallows: Part 2","12 Years a Slave","On the Waterfront","Ben-Hur","The Grand Budapest Hotel","Gone Girl","Wild Strawberries","The General","Barry Lyndon","In the Name of the Father","The Third Man","The Deer Hunter","Hacksaw Ridge","The Wages of Fear","Memories of Murder","Sherlock Jr.","Wild Tales","Mr. Smith Goes to Washington","Mad Max: Fury Road","Mary and Max","The Seventh Seal","How to Train Your Dragon","Monsters, Inc.","Jaws","Dead Poets Society","Room","The Big Lebowski","Tokyo Story","The Passion of Joan of Arc","Ford v Ferrari","Hotel Rwanda","Rocky","Platoon","Ratatouille","Spotlight","Logan","The Terminator","Stand by Me","Rush","Network","Before Sunset","Into the Wild","The Wizard of Oz","The Best Years of Our Lives","Groundhog Day","The Exorcist","Pather Panchali","The Incredibles","To Be or Not to Be","La haine","Pirates of the Caribbean: The Curse of the Black Pearl","The Battle of Algiers","The Grapes of Wrath","Hachi: A Dog's Tale","Jai Bhim","My Father and My Son","Amores Perros","Rebecca","Cool Hand Luke","The Handmaiden","The 400 Blows","The Sound of Music","It Happened One Night","Persona","Life of Brian","The Iron Giant","The Help","Dersu Uzala","Aladdin","Dances with Wolves","Gandhi"],"year":["1994","1972","2008","1974","1957","1993","2003","1994","2001","1966","1994","1999","2002","2010","1980","1999","1990","1975","1995","1954","1946","1991","1998","2002","2014","1997","1999","1977","1991","1985","2001","2002","1960","2019","1994","1994","2000","1998","2006","2006","1995","2014","1942","1988","1962","2011","1936","1968","1988","1954","1979","1931","1979","2000","2012","1981","2008","2006","1950","1957","1980","1940","2018","1957","1986","2018","1999","1964","2012","2003","2009","1984","2017","1995","2019","1995","1981","2019","1997","1984","1997","2016","1952","2009","2000","1963","2010","2018","1983","2004","1968","1985","1992","2012","1941","1931","1962","1959","1952","1958","1960","2001","1971","1944","1987","1983","2020","2010","1995","1962","2009","1973","2011","1927","1976","1997","1988","2022","2000","1989","1948","2007","2019","2004","2016","1965","2005","1921","1959","2020","1950","2013","2018","1961","1985","1995","1998","2007","2006","1992","1999","2010","2001","1993","1961","1948","1975","2007","1963","2003","1950","2021","1982","2003","1980","1974","1980","2005","1939","1998","1954","2015","2009","2004","2017","1996","1957","2013","2011","1996","2008","1988","2002","2004","1997","1982","1925","2019","1995","2011","2013","1954","1959","2014","2014","1957","1926","1975","1993","1949","1978","2016","1953","2003","1924","2014","1939","2015","2009","1957","2010","2001","1975","1989","2015","1998","1953","1928","2019","2004","1976","1986","2007","2015","2017","1984","1986","2013","1976","2004","2007","1939","1946","1993","1973","1955","2004","1942","1995","2003","1966","1940","2009","2021","2005","2000","1940","1967","2016","1959","1965","1934","1966","1979","1999","2011","1975","1992","1990","1982"],"rating":[9.2,9.2,9,9,9,8.9,8.9,8.8,8.8,8.8,8.8,8.7,8.7,8.7,8.7,8.7,8.7,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.3,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.2,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8.1,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8]},"columns":[{"id":"rank","name":"rank","type":"character","align":"center"},{"id":"title","name":"title","type":"character","align":"center"},{"id":"year","name":"year","type":"character","align":"center"},{"id":"rating","name":"rating","type":"numeric","align":"center"}],"resizable":true,"filterable":true,"dataKey":"218c3434cb566ce63a4b1931ac0fc47d"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 ```
 
 :::
 :::
+
+::: {.cell}
+
+```{.r .cell-code}
+knitr::knit_exit()
+```
+:::
+
+
+
+
