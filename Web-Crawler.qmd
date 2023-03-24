@@ -249,6 +249,30 @@ print(columns[1])
 driver.close()
 ```
 
+## Flask
+```{python}
+#| column: page
+#| eval: false
+from flask import Flask
+# __name__ current module
+app = Flask(__name__)
+# Decorator: 以函式為基礎，提供附加功能
+# root 
+@app.route("/")
+def home():
+    return "Hello Flask"
+# how to deal with /test
+@app.route("/test")
+def test():
+    return "This is Test"
+
+if __name__ == "__main__":
+  app.run()
+```
+
+
+
+
 # R Web Crawler
 
 ## Star Wars films
@@ -324,26 +348,3 @@ imdb_url |>
          ) |> 
          reactable(resizable = T,filterable = T,defaultColDef = colDef(align = "center"))
 ```
-
-```{r}
-knitr::knit_exit()
-```
-
-## Yahoo Stock
-```{r}
-#| column: page
-yahoo_html <- read_html("https://tw.stock.yahoo.com/world-indices")
-```
-
-```{r}
-yahoo_html |> 
-    html_elements(".Lh\\(20px\\)") |> 
-    html_element("span") |> 
-    html_text2() 
-# Stock Price
-yahoo_html |> 
-    html_elements(".Jc\\(fe\\)") |> 
-    html_text2() 
-
-```
-
